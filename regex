@@ -1,0 +1,8 @@
+Regex 0
+(\w*),(.*)
+
+Regex 1
+I am (\w*). My favorite sandwich is (\w*)
+
+Regex 2 
+sandwich with (\w*.\w*.\w{3,}). (\w* \w*)
